@@ -1,0 +1,87 @@
+div {
+    background-color: #5f4351;
+}
+dl{
+    font-size: 30px;
+}
+h1{
+    color: #f4cd72 !important;
+    text-align: center;
+}
+a {
+    color: #6ea92c !important;
+}
+
+
+.corLetra{
+    color:#91d9f3;
+    text-align: justify;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 34px;
+}
+.destaqueLista{
+    font-size: 28px;
+    padding-left: 10px;
+    margin-right: 40%;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    color: #f4cd72;
+    background-color: #9e5b47;
+}
+.titulosJogos{
+    color:#6ea92c;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 0px;
+}
+.descriacaoJogos{
+    color:#91d9f3;
+    background-color: #60748a;
+    text-align: justify;
+    padding: 20px;
+}
+.corFooter{
+    background-color: #dc392d;
+    text-align: center;
+}
+
+
+
+.botao:link, .botao:visited{
+    background-color: #1651dd;
+    text-decoration: none;
+    padding: 7px;
+    margin: 5px;
+}
+.botao:hover, .botao:active{
+    background-color: #898989;
+}
+
+/* 
+container {
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+}
+
+    Copper tech
+    #262144
+    #1651dd
+    #898989
+    #355278
+    #60748a
+    #91d9f3
+
+    #5aa8b2
+    #6ea92c
+    #bfb588
+    #f4cd72
+    #c58843
+    #9e5b47
+
+    #dc392d
+    #5f4351
+    #ffffff
+    #000000
+
+*/
