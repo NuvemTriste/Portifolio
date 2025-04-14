@@ -1,4 +1,4 @@
-div {
+div{
     background-color: #5f4351;
 }
 dl{
@@ -43,7 +43,7 @@ a {
     padding: 20px;
 }
 .corFooter{
-    background-color: #dc392d;
+    background-color: #dc392d !important;
     text-align: center;
 }
 
@@ -58,7 +58,10 @@ a {
 .botao:hover, .botao:active{
     background-color: #898989;
 }
-
+.scale{transition: 0.5;}
+.scale:hover{
+    transform: scale(2);
+}
 /* 
 container {
     <meta name="viewport" content="width=device-width, initial-scale=1">
